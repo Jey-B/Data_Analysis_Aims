@@ -1,2 +1,3 @@
-# Data_Analysis_Aims
-This repository is just for academic purpose
+# Data_Analysis
+
+This repository is just for personal training
